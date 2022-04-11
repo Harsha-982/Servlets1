@@ -1,0 +1,5 @@
+1)servletConfig object gets returned by servlet Interface of method getservletconfig()
+
+2) need not to change everytime the servlet we can change info from web.xml file if needed.(pros)
+
+            ServletConfig config=getServletConfig();

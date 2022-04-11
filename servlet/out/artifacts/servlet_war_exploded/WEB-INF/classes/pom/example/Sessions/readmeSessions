@@ -1,0 +1,11 @@
+Http is a state less protocol to maintain a state of it we use session tracking
+
+state means = to recognize the old user of it
+
+session maintain the info of the old user
+
+4 ways to maintain this
+cookie
+httpsession
+url rewritting
+hiden field forms

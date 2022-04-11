@@ -1,0 +1,10 @@
+1) request dispatcher interface provides the facility of "DISPATCHING" the request to another resource
+  like html or jsp or servlet classes
+
+2)it is also used to include the content of other resources
+
+3)Object of requestDispatcher gets returned by getRequestDispatcher method in ServletRequest interface..
+
+       public RequestDispatcher getRequestDispatcher(String resource);
+
+RequestDispatcher(Interface) re=request(interface).getRequestDispatcher(method)();
